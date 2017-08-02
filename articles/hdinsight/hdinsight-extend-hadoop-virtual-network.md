@@ -145,7 +145,7 @@ HDInsight サービスは管理されたサービスで、プロビジョニン�
 
 Azure Government に使用する IP アドレスについては、「[Azure Government Intelligence + Analytics (Azure Governemnt Intelligence + Analytics)](../azure-government/documentation-government-services-intelligenceandanalytics.md)」をご覧ください。
 
-__使用しているリージョンが表にない場合は__、次の IP アドレスでポート __443__ にトラフィックを許可します。
+__上記の表の設定に加え__、次の IP アドレスでポート __443__ にトラフィックを許可します。
 
 * 168.61.49.99
 * 23.99.5.239
